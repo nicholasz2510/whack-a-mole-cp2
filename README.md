@@ -1,7 +1,7 @@
 # whack-a-mole-cp2
 A "whack-a-mole" game for the Computer Programming year 2 group project. 
 
-Written in Python and Processing. 
+Written in [Processing](https://processing.org/). 
 
 ## Authors
 * **Nicholas Zhang** - [nicholasz2510](https://github.com/nicholasz2510)
