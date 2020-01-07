@@ -6,6 +6,8 @@ class Button:
         self.function = function
         
     def hover(self, bool):
+        None
         
     def callMethod(self, function):
+        None
         
