@@ -1,4 +1,4 @@
-class Game:
+class Main:
     
     
     
@@ -9,11 +9,14 @@ class Game:
         self.fullHoleArray = []
     
     def setup():
-        size(int(displayWidth / 20) * 20, (int(displayHeight / 20) * 20) - 40)
-        frameRate(100)
+        size(1920, 1080)
+        frameRate(90)
                 
     def gameStart(self):
         None
         
     def gameEnd(self):
         None
+    
+    def draw():
+        background(255)
