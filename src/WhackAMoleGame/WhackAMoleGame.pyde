@@ -1,4 +1,4 @@
-class Main:
+class Game:
     
     
     
@@ -13,10 +13,11 @@ class Main:
         frameRate(90)
                 
     def gameStart(self):
-        None
+        print "game started"
         
     def gameEnd(self):
-        None
+        print "game ended"
     
     def draw():
         background(255)
+    draw()
