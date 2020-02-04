@@ -4,3 +4,5 @@ class Mole:
         self.coords = coords
         self.pointValue = pointValue
         self.speed = speed
+    
+    
